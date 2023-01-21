@@ -5,7 +5,7 @@ Capsule protocol is a permissionless, long-term defi protocol for alt, micro cap
 
 - 🔭 We are currently working on finalizing an invite-only beta and will be deploying public documents to this repository.
 
-- 📫 How to reach us: ...twitter capsuleprotocol@proton.me
+- 📫 How to reach us: email us @ capsuleprotocol@proton.me
 
 
 <!--
