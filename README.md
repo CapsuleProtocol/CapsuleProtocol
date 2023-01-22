@@ -3,6 +3,8 @@
 Capsule protocol is a permissionless long-term defi lending protocol for alt, micro cap token holders to lock-up their holdings, access equity, earn rewards, and receive incentives from the project.
 
 
+- 📃 Read our WhitePaper: https://github.com/CapsuleProtocol/CapsuleProtocol/blob/main/Capsule%20Protocol%20WhitePaper.pdf
+
 - 🔭 We are currently working on finalizing an invite-only beta and will be deploying public documents to this repository.
 
 - 📫 How to reach us: email us @ capsuleprotocol@proton.me
